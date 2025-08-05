@@ -6,7 +6,7 @@ for test_case in range(1, T+1):
     # 수열의 길이 N
     N = int(input())
     # 수열의 원소들
-    sequence = list(map(int, input().split()))
+    sequence = list(map(int, input().strip()))
 
     # 연속되는 1의 개수 중 최댓값
     max_count = 0
