@@ -1,13 +1,20 @@
 # 수 정렬하기
+N = int(input())
 
+nums = []
 
-
-
-
-
-
-
-
+for _ in range(N):
+    num =int(input())
+    nums.append(num)
+    
+    for i in range(N):
+        for j in range(i+1, N):
+            if nums[i] > nums[j]:
+                nums[i], nums[j] = nums[j], nums[i]
+    
+    
+    for n in nums:
+        print(n)
 
 
 
