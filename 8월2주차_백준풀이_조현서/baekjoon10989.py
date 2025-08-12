@@ -1,33 +1,45 @@
-# 수 정렬하기(카운팅 정렬 적용)
-N = int(input())
+# 수 정렬하기 -> 오름차순
+import sys
+input = sys.stdin.readline  # 빠른 입력을 위해 import 사용
 
-# 각 수의 등장 횟수를 저장할 '카운트 배열' 만들기
-#    인덱스가 "그 수 자체"가 되도록 0..10000까지 준비
-#    문제 조건의 최대값이 10000이므로 길이는 10001이어야 index 10000 접근 가능
-count = [0] * 10001 
+N = int(input())            # 밑의 과정은 시간 초과된 코드과 똑같음
+counts = [0] * 10001
 
-# 3) N번 입력을 읽으면서 해당 숫자의 등장 횟수를 +1
 for _ in range(N):
-    x = int(input())   # 한 줄을 읽고 정수로 변환
-    count[x] += 1      # x가 등장했으므로 카운트 증가
-
+    num = int(input())
+    counts[num] += 1
 
 for i in range(1, 10001):
-    c = count[i]       # 숫자 i의 등장 개수
-    if c == 0:
-        continue       # 한 번도 안 나왔으면 건너뜀
-    for _ in range(c):
-        print(i)       # i를 c번 출력
+    count = counts[i]
+    if count == 0:
+        continue
+    for _ in range(count):
+        print(i)
 
-
-
-# 원래 하던대로 했더니 메모리 초과
+# 카운팅 정렬 적용(시간 초과) -----------------------------------------------------------------
 # N = int(input())
+#
+# # 각 수의 등장 횟수를 저장할 '카운트 배열' 만들기
+# # 길이가 10001이어야 인덱스 10000 접근 가능
+# counts = [0] * 10001
+#
+# for _ in range(N):          # N번 반복하면서 해당 num의 카운트를 +1
+#     num = int(input())      # 한 줄씩 N개의 정수가 주어지므로
+#     counts[num] += 1        # num가 나올때마다 카운트 증가
+#
+# for i in range(1, 10001):   # 1~10000까지의 인덱스를 돌면서(1부터 시작인 이유는 num가 자연수이므로)
+#     count = counts[i]       # 숫자 i가 몇개 나왔는지 확인
+#     if count == 0:
+#         continue            # 한 번도 안 나왔으면 건너뜀
+#     for _ in range(count):
+#         print(i)            # 카운트가 있다면 카운트만큼 i를 반복 출력
 
+# 버블 정렬을 사용했더니 메모리 초과가 뜸--------------------------------------------------------
+# N = int(input())
 # nums = []
 
 # for _ in range(N):
-#     num =int(input())
+#     num = int(input())
 #     nums.append(num)
     
 #     for i in range(N):

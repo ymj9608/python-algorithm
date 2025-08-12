@@ -3,7 +3,7 @@
 
 
 
-# 시간 초과
+# 시간 초과 1 --------------------------------------------------------------------------------
 # N, K 입력
 # N, K = map(int, input().split())
 # arr = list(map(int, input().split()))
@@ -14,35 +14,14 @@
 #     for j in range(i + 1, N):
 #         if arr[j] < arr[min_idx]:
 #             min_idx = j
-# 최소값과 현재 위치를 교환
-#     arr[i], arr[min_idx] = arr[min_idx], arr[i]
-
+#     arr[i], arr[min_idx] = arr[min_idx], arr[i]   # 최소값과 현재 위치를 교환
 # K번째 원소 출력 (인덱스는 K-1)
 # print(arr[K - 1])
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 시간 초과(버블 정렬 형태로 풂)
+# 시간 초과2(버블 정렬 형태로 풂) ---------------------------------------------------------------
 # N, K = map(int, input().split())
 # a = list(map(int, input().split()))
 
-
-    
 # for i in range(N):
 #     for j in range(i+1, N):     
 #         if a[i] > a[j]:                       # 뒤의 숫자가 더 클 경우

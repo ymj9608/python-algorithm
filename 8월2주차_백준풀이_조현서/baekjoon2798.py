@@ -10,14 +10,14 @@ for i in range(N):
         for k in range(j+1, N):         # nums[] 형태로 값을 변환
             total = nums[i] + nums[j] + nums[k]
 
-            if total <= M:
-                max_value = max(max_value, total)
+            if total <= M:              # 총합이 M을 넘지 않으면 최댓값 갱신
+                if total > max_value:   # max 함수를 안쓰기 위해 사용
+                    max_value = total
+                # max_value = max(max_value, total)
 
 print(max_value)
 
-
-
-# 중복된 숫자를 고를 수도 있기 때문에 이 로직은 맞지 않음
+# 중복된 숫자를 고를 수도 있기 때문에 이 로직은 맞지 않음(처음엔 이런 식으로 진행했다가 틀림)
 # for i in nums:
 #     for j in nums:
 #         for k in nums:
