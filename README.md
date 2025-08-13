@@ -57,3 +57,35 @@ https://www.acmicpc.net/problem/11399
 실버4
 백준 1920번 수 찾기:  
 https://www.acmicpc.net/problem/1920
+
+---
+# 8월 2주차 백준 5문제, swea 2문제
+8월 12일 화요일에 코드 리뷰 진행
+
+실버4
+백준 9012번 괄호:
+https://www.acmicpc.net/problem/9012
+
+실버4
+백준 13413번 오셀로 재배치:
+https://www.acmicpc.net/problem/13413
+
+실버3
+백준 11899번 괄호 끼워넣기:
+https://www.acmicpc.net/problem/11899
+
+실버3
+백준 17413번 단어 뒤집기2:
+https://www.acmicpc.net/problem/17413
+
+골드5
+백준 7576번 토마토:
+https://www.acmicpc.net/problem/7576
+
+swea
+D3 오목 판정:
+https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXaSUPYqPYMDFASQ
+
+swea
+우주괴물:
+https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZU7flp6n8XHBIRK
