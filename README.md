@@ -59,8 +59,8 @@ https://www.acmicpc.net/problem/11399
 https://www.acmicpc.net/problem/1920
 
 ---
-# 8월 2주차 백준 5문제, swea 2문제
-8월 12일 화요일에 코드 리뷰 진행
+# 8월 3주차 백준 5문제, swea 2문제
+8월 18일 월요일에 코드 리뷰 진행
 
 실버4
 백준 9012번 괄호:
@@ -78,14 +78,14 @@ https://www.acmicpc.net/problem/11899
 백준 17413번 단어 뒤집기2:
 https://www.acmicpc.net/problem/17413
 
-골드5
-백준 7576번 토마토:
-https://www.acmicpc.net/problem/7576
+실버1
+백준 2178번 미로 탐색:
+https://www.acmicpc.net/problem/2178
 
 swea
 D3 오목 판정:
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXaSUPYqPYMDFASQ
 
 swea
-우주괴물:
+D1 우주괴물:
 https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZU7flp6n8XHBIRK
