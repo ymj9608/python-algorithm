@@ -63,29 +63,29 @@ https://www.acmicpc.net/problem/1920
 8월 18일 월요일에 코드 리뷰 진행
 
 실버4
-백준 9012번 괄호:
+백준 9012번 괄호:  
 https://www.acmicpc.net/problem/9012
 
 실버4
-백준 13413번 오셀로 재배치:
+백준 13413번 오셀로 재배치:  
 https://www.acmicpc.net/problem/13413
 
 실버3
-백준 11899번 괄호 끼워넣기:
+백준 11899번 괄호 끼워넣기:  
 https://www.acmicpc.net/problem/11899
 
 실버3
-백준 17413번 단어 뒤집기2:
+백준 17413번 단어 뒤집기2:  
 https://www.acmicpc.net/problem/17413
 
 실버1
-백준 2178번 미로 탐색:
+백준 2178번 미로 탐색:  
 https://www.acmicpc.net/problem/2178
 
 swea
-D3 오목 판정:
+D3 오목 판정:  
 https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXaSUPYqPYMDFASQ
 
 swea
-D1 우주괴물:
+D1 우주괴물:  
 https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZU7flp6n8XHBIRK
