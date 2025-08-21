@@ -60,7 +60,7 @@ https://www.acmicpc.net/problem/1920
 
 ---
 # 8월 3주차 백준 5문제, swea 2문제
-8월 18일 월요일에 코드 리뷰 진행
+8월 20일 수요일에 코드 리뷰 진행
 
 실버4
 백준 9012번 괄호:  
@@ -89,3 +89,35 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXa
 swea
 D1 우주괴물:  
 https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZU7flp6n8XHBIRK
+
+---
+# 8월 4주차 백준 7문제
+8월 일 요일에 코드 리뷰 진행
+
+실버4  
+백준 2164번 카드2:  
+https://www.acmicpc.net/problem/2164
+
+실버4  
+백준 11866번 요세푸스 문제 0:  
+https://www.acmicpc.net/problem/11866
+
+실버4  
+백준 10773번 제로:  
+https://www.acmicpc.net/problem/10773
+
+실버3  
+백준 1966번 프린터 큐:  
+https://www.acmicpc.net/problem/1966
+
+실버2  
+백준 1260번 DFS와 BFS:  
+https://www.acmicpc.net/problem/1260
+
+실버1  
+백준 1697번 숨바꼭질:  
+https://www.acmicpc.net/problem/1697
+
+실버1  
+백준 2667번 단지번호 붙이기:  
+https://www.acmicpc.net/problem/2667
