@@ -92,7 +92,7 @@ https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestPr
 
 ---
 # 8월 4주차 백준 7문제
-8월 일 요일에 코드 리뷰 진행
+8월 25일 월요일에 코드 리뷰 진행
 
 실버4  
 백준 2164번 카드2:  
