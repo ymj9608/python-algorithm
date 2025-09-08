@@ -18,13 +18,13 @@ https://www.acmicpc.net/problem/2606
 https://www.acmicpc.net/problem/11725
 
 실버2
-백준 1012번 유기농 배추:
+백준 1012번 유기농 배추:  
 https://www.acmicpc.net/problem/1012
 
 실버1
-백준 1149번 RGB거리:
+백준 1149번 RGB거리:  
 https://www.acmicpc.net/problem/1149
 
 실버1
-백준 1991번 트리 순회:
+백준 1991번 트리 순회:  
 https://www.acmicpc.net/problem/1991
