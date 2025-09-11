@@ -1,4 +1,4 @@
-# 9월 1주차 백준 4문제  
+# 9월 1주차 백준 7문제  
 9월 10일 수요일에 코드 리뷰 진행  
 
 실버3
@@ -28,3 +28,38 @@ https://www.acmicpc.net/problem/1149
 실버1
 백준 1991번 트리 순회:  
 https://www.acmicpc.net/problem/1991
+
+
+# 9월 2주차 백준 7문제  
+9월 17일 수요일에 코드 리뷰 진행  
+
+백준 7문제
+
+실버2  
+백준 2630번 색종이 만들기:  
+https://www.acmicpc.net/problem/2630  
+
+실버2  
+백준 2805번 나무 자르기:  
+ https://www.acmicpc.net/problem/2805  
+
+실버2  
+백준 11053번 가장 긴 증가하는 부분 수열:  
+ https://www.acmicpc.net/problem/11053  
+
+실버1  
+백준 14940번 쉬운 최단거리:  
+ https://www.acmicpc.net/problem/14940  
+
+실버1  
+백준 11403번 경로 찾기:  
+ https://www.acmicpc.net/problem/11403  
+
+골드5  
+백준 1931번 회의실 배정:  
+ https://www.acmicpc.net/problem/1931  
+
+골드5  
+백준 16928번 뱀과 사다리 게임:  
+ https://www.acmicpc.net/problem/16928  
+
