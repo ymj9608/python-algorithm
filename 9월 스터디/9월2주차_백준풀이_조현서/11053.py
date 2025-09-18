@@ -13,7 +13,7 @@ count = 0
 for i in range(1, N):
     # 현재 원소가 이전 원소보다 커지면
     # 카운트 + 1
-    if nums[i] > nums[i - 1]:
+    if nums[i] >= nums[i - 1]:
         count += 1
     # 아니면 넘김
     else:
