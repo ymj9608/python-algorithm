@@ -33,8 +33,6 @@ https://www.acmicpc.net/problem/1991
 # 9월 2주차 백준 7문제  
 9월 17일 수요일에 코드 리뷰 진행  
 
-백준 7문제
-
 실버2  
 백준 2630번 색종이 만들기:  
 https://www.acmicpc.net/problem/2630  
@@ -63,3 +61,21 @@ https://www.acmicpc.net/problem/2630
 백준 16928번 뱀과 사다리 게임:  
  https://www.acmicpc.net/problem/16928  
 
+# 9월 3주차 백준 4문제
+9월 26일 금요일에 코드 리뷰 진행
+
+실버2  
+백준 16953번 A → B:  
+https://www.acmicpc.net/problem/16953
+
+실버1  
+백준 1932번 정수 삼각형:  
+https://www.acmicpc.net/problem/1932
+
+골드5
+백준 2096번 내려가기:  
+https://www.acmicpc.net/problem/2096
+
+골드5  
+백준 1916번 최소비용 구하기:  
+https://www.acmicpc.net/problem/1916
