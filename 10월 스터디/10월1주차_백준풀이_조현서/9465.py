@@ -1,4 +1,4 @@
-# 스티커(아직 못풂)
+# 스티커(아직 못풂) -> dp 문제
 import sys
 input = sys.stdin.readline
 
