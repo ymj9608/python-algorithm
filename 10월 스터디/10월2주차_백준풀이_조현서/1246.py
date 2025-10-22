@@ -1,6 +1,6 @@
 # 온라인 판매
 '''
-
+가격 정렬 후 풀이하면 쉬워짐
 '''
 import sys
 input = sys.stdin.readline
