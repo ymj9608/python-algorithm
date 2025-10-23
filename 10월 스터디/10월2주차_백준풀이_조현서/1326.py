@@ -50,4 +50,5 @@ while q:
             q.append(nxt)
         k -= 1
 
+# 목적지(b)까지 얼마나 걸렸는지 출력 
 print(visited[b])
