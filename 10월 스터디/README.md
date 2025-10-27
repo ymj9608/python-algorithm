@@ -60,3 +60,33 @@ https://www.acmicpc.net/problem/1326
 백준 1535번 안녕:  
 https://www.acmicpc.net/problem/1535
 
+# 10월 3주차 백준 7문제  
+10월 29일 수요일에 코드 리뷰 진행  
+
+실버4  
+백준 1620번 나는야 포켓몬 마스터 이다솜:  
+https://www.acmicpc.net/problem/1620
+
+실버4  
+백준 1049번 기타줄:  
+https://www.acmicpc.net/problem/1049
+
+실버3  
+백준 1929번 소수 구하기:  
+https://www.acmicpc.net/problem/1929
+
+실버3  
+백준 1018번 체스판 다시 칠하기:  
+https://www.acmicpc.net/problem/1018
+
+실버2  
+백준 1182번 부분수열의 합:  
+https://www.acmicpc.net/problem/1182
+
+실버1  
+백준 1309번 동물원:  
+https://www.acmicpc.net/problem/1309
+
+골드5  
+백준 12865번 평범한 배낭:  
+https://www.acmicpc.net/problem/12865
