@@ -16,7 +16,7 @@ for i in range(2, N + 1):
     if nums[i] == True:
         # 자기 자신은 빼야 하므로 다음 배수부터 빼주기
         # 다음 배수부터 i 배수에 해당하는 숫자 False
-        for j in range(i + i, N + 1, i):
+        for j in range(i * i, N + 1, i):
             nums[j] = False
 # print(nums)
 
