@@ -7,7 +7,9 @@ input = sys.stdin.readline
 
 N, M = map(int, input().split())
 
+# 이름 -> 번호
 num_dict = {}
+# 번호 -> 이름
 name_dict = {}
 
 for i in range(1, N + 1):
