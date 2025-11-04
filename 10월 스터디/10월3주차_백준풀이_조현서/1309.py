@@ -3,7 +3,6 @@
 가로로 세로로도 붙을 수 없음
 인접하면 배치 불가
 사자를 배치하는 경우의 수 -> 한 마리도 배치하지 않는 경우도 존재
-=> dp 문제 같음
 '''
 import sys
 input = sys.stdin.readline
