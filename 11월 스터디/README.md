@@ -51,3 +51,28 @@ https://www.acmicpc.net/problem/2607
 
 백준 2644번 촌수계산:  
 https://www.acmicpc.net/problem/2644
+
+
+# 11월 3주차 백준 7문제  
+11월 19일 수요일에 코드 리뷰 진행  
+
+백준 14425번 문자열 집합:  
+https://www.acmicpc.net/problem/14425
+
+백준 2217번 로프:  
+https://www.acmicpc.net/problem/2217
+
+백준 12789번 도키도키 간식드리미:  
+https://www.acmicpc.net/problem/12789
+
+백준 7795번 먹을 것인가 먹힐 것인가:  
+https://www.acmicpc.net/problem/7795
+
+백준 1780번 종이의 개수:  
+https://www.acmicpc.net/problem/1780
+
+백준 3085번 사탕 게임:  
+https://www.acmicpc.net/problem/3085
+
+백준 1065번 쉬운 계단 수:  
+https://www.acmicpc.net/problem/1065
