@@ -74,5 +74,5 @@ https://www.acmicpc.net/problem/1780
 백준 3085번 사탕 게임:  
 https://www.acmicpc.net/problem/3085
 
-백준 1065번 쉬운 계단 수:  
-https://www.acmicpc.net/problem/1065
+백준 10844번 쉬운 계단 수:  
+https://www.acmicpc.net/problem/10844
