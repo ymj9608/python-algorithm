@@ -76,3 +76,28 @@ https://www.acmicpc.net/problem/3085
 
 백준 10844번 쉬운 계단 수:  
 https://www.acmicpc.net/problem/10844
+
+
+# 11월 4주차 백준 7문제  
+11월 26일 수요일에 코드 리뷰 진행  
+
+백준 2839번 설탕 배달:
+https://www.acmicpc.net/problem/2839
+
+백준 11652번 카드:
+https://www.acmicpc.net/problem/11652
+
+백준 2193번 이친수:
+https://www.acmicpc.net/problem/2193
+
+백준 2503번 숫자 야구:
+https://www.acmicpc.net/problem/2503
+
+백준 4963번 섬의 개수:
+https://www.acmicpc.net/problem/4963
+
+백준 2961번 도영이가 만든 맛있는 음식:
+https://www.acmicpc.net/problem/2961
+
+백준 2072번 오목:
+https://www.acmicpc.net/problem/2072
